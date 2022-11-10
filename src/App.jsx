@@ -5,7 +5,7 @@ import Login from '../features/auth/Login'
 import DashLayout from '../components/DashLayout'
 import Welcome from '../features/auth/Welcome'
 import NoteList from '../features/notes/NoteList'
-import UserList from '../features/UserList'
+import UserList from '../features/users/UserList'
 
 function App() {
   return <div>
